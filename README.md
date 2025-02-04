@@ -51,11 +51,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedmuhiminanam&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhiminanam&theme=radical" height="165" />
-</div>
-
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhiminanam&layout=compact&theme=radical" height="165" />
 </div>
 
