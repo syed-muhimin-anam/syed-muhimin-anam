@@ -46,7 +46,22 @@
 
 ###
 
-<h2 align="left">Soial Links</h2>
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmuhiminanam&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhiminanam&theme=radical" height="165" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhiminanam&layout=compact&theme=radical" height="165" />
+</div>
+
+###
+
+<h2 align="left">Social Links</h2>
 
 ###
 
@@ -61,9 +76,10 @@
   <a href="https://wa.me/01738485944" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="syed.muhimin.anam@gmail.com" target="_blank">
+  <a href="mailto:syed.muhimin.anam@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+
