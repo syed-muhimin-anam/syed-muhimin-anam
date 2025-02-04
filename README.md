@@ -50,12 +50,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhiminanam&layout=compact&theme=radical" height="165" />
-</div>
-
-###
-
 <h2 align="left">Social Links</h2>
 
 ###
